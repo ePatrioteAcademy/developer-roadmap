@@ -1,28 +1,7 @@
 
 ![Web Developer Roadmap - 2020](https://i.imgur.com/NNyc9QM.png)
 
-> Roadmap to becoming a web developer in 2020
 
-[![](https://img.shields.io/badge/-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](http://roadmap.sh)
-[![](https://img.shields.io/badge/-Guides-0a0a0a.svg?style=flat&colorA=0a0a0a)](http://roadmap.sh/guides)
-[![](https://img.shields.io/badge/-Translations-0a0a0a.svg?style=flat&colorA=0a0a0a)](./translations)
-[![](https://img.shields.io/badge/%E2%9D%A4-YouTube%20Channel-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1)
-
-Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective; sharing them here to help the community.
-
-***
-
-<p align="center">
-		<sup>Special Announcement:</sup>
-		<br>
-		<a href="https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1">
-			<img width="70px" src="https://roadmap.sh/sponsors/youtube.svg">
-		</a>
-		<br>
-		<sub><b>We now have a YouTube Channel</b></sub>
-		<br>
-		<sub>I plan on covering the roadmaps and put more content there<br><a href="https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1">Subscribe to the channel</a>.</sub>
-</p>
 
 ***
 
